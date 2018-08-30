@@ -19,12 +19,9 @@
 | Ice Coffee                 |  45  |
 | Green Tea                  |  22  |
 | Oolong Tea                 |  20  |
-<<<<<<< HEAD
 | Drinking Water             |  20  |
-=======
 | Orange Juice               |  25  |
 | Drinking Water             |  10  |
->>>>>>> breakfast
 
 ---
 
